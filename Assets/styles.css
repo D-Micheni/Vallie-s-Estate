@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk:wght@300&display=swap');
+body{
+    background-color: ghostwhite;
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+.words{
+    float: left;
+
+}
+.picture > img{
+    padding-left: 70px;
+   
+}
+
+#prdesctription{margin-top: 40px;
+margin-left: 150px;
+}
+#head3{text-align: left;}
+.maintop{
+    margin: 20px;
+    padding: 20px;
+    display: inline;
+   
+   
+
+}
+.fa-solid{
+    padding-top: 20px;
+    padding-left: 50px;
+    font-size: 30px;
+    color: navy;
+}
+.btn1{
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    margin: 4px 2px;
+    padding: 10px 20px;
+}
+
+h3{
+    color: blue;
+    font-size: 50px;
+}
+.vallie{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Oleo Script', cursive;
+}
+.container > ul{
+    list-style-type: none;
+    /* position: fixed; */
+    align-items: center;
+    padding-bottom:30px ;
+
+
+}
+.container > ul >li{
+    font-size: 25px;
+    display: inline;
+    padding-left: 80px;
+    text-align: center;
+    /* float: left; */
+
+
+}
+.active{
+    color: blue;
+}
+
+
+.container{
+    
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.start{
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    margin-left: 100px;
+    padding: 8px 13px;
+}
+.loc-prop{    
+    display: flex;
+    background: white;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.loc-items{
+    padding-left: 20px;
+    margin: 0px;
+    width: 30%;
+}
+.loc-items > h1{
+    color: navy;
+}
+.loc-button{
+    background: blue;
+    margin: 40px;
+    width: 170px;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 13px;
+}
+.loc-button > i{
+    color: white;
+}
+.houses  img {
+    height: 300px;
+    width: 500px;
+}
+.allhouses{
+    display: flex;
+}
+.houses-details{
+    display: flex;
+}
+.houseloc{
+    padding-right: 160px;
+}
+.price{
+    font-weight: bolder;
+}
+.houses{
+    width: 33.3%;
+    background: white;
+    margin: 20px;
+    height: 400px;
+    border-top-right-radius: 109px;
+    border-bottom-left-radius: 25px;
+
+
+}
+.card{
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    margin-right: 30px;
+}
+.wordcard{
+    padding: 2px 16px;
+}
+
+#allcards{
+    margin-left: 150px;
+    display: inline-flex;
+}
+.products{
+margin-left: 150px;
+}
+
+.words1{ 
+    display: flex;
+     margin: 20px; 
+     margin-top: 20px;
+    }
+
+
+.words2{
+    /* margin-left: 20px;
+     margin-top: 60px; */
+    /* padding-left: 50px; */
+}
+h2{
+    color: blue;
+     text-align: center;}
+#feedback{ text-align: center;}
+
+.btn2{
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    float: right;
+    border-radius: 10px;
+    border: none;
+    
+}
+footer{
+    display: flex;
+    background:navy;
+    color: white;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.footerC{
+    padding-right: 200px;
+}
+.footerC > span{
+    font-family: 'Oleo Script', cursive;
+    padding-right: 100px;
+    font-size: 40px;
+}
+.footerC > h7{
+    font-size:40px ;
+    
+}
+.footerC > p{
+    list-style: none;
+}
+
+
